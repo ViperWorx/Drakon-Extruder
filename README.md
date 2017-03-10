@@ -1,6 +1,6 @@
 # Drakon Extruder
 
-Taking heavy influences from both the E3D Titan and the <a href="http://www.thingiverse.com/thing:2090259">NSTT Extruder</a>, this is a ground up design of what is essentially a 3D Printable E3D Titan. It has the same gear ratio of 3:1 as that of the Titan, and a similar tension gauge.
+Taking heavy influences from both the E3D Titan and the <a href="http://www.thingiverse.com/thing:2090259">NSTT Extruder</a>, this is a ground up design of what is essentially a 3D Printable E3D Titan. It has the same gear ratio of 3:1 as that of the Titan, and a similar tension gauge. This brings accuracy to your extrusion rates by imcreasing the amount of steps needed to extrude the correct amount of filament. It is currently only usable for 1.75mm filament, but 3mm will be uploaded soon.
 
 <img src="https://raw.githubusercontent.com/AxMod3DPrint/Drakon-Extruder/master/Images/Extruder3.png" />
 
