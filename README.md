@@ -4,7 +4,7 @@ Taking heavy influences from both the E3D Titan and the <a href="http://www.thin
 
 A full Bill of Materials can be found on the Wiki <a href=https://github.com/AxMod3DPrint/Drakon-Extruder/wiki/Bill-of-Materials>here</a>.
 
-Assembly instructions can be found at <a href="https://youtu.be/jO8r4zXFYHI">https://youtu.be/jO8r4zXFYHI</a.
+Assembly instructions can be found at https://youtu.be/jO8r4zXFYHI
 
 <img src="https://raw.githubusercontent.com/AxMod3DPrint/Drakon-Extruder/master/Images/Drakon.jpg" />
 
