@@ -6,7 +6,7 @@ A full Bill of Materials can be found on the Wiki <a href=https://github.com/AxM
 
 Assembly instructions can be found at https://youtu.be/jO8r4zXFYHI
 
-<img src="https://raw.githubusercontent.com/AxMod3DPrint/Drakon-Extruder/master/Images/Drakon.jpg" />
+<img src="https://raw.githubusercontent.com/AxMod3DPrint/Drakon-Extruder/master/Images/Drakon2.jpg" />
 
 <hr />
 <table border="0px">
