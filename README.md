@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/AxMod3DPrint/Drakon-Extruder/master/Images/Drakon_logo.png" />
-
 <img src="https://raw.githubusercontent.com/AxMod3DPrint/Drakon-Extruder/master/Images/Drakon2.jpg" />
 
 <h4>Reliability, Performance, Power</h4>
